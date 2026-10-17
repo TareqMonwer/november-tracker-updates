@@ -1,0 +1,11 @@
+{
+  "version": "1.0.13",
+  "notes": "Latest CI build from mac-stable-release.",
+  "pub_date": "2026-10-17T07:56:07.258Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2hoMEw5SHRhYVY0Y1BESU5DMGZKNHIrYXFpRXR6S01RNVdsa1M5dUlxbmp3dXpnQnFYOExZRmpPUFc3R3R6V014NXUzQlN3d2o3RXZXOFQyV0ZKSzMxQ0kxcDNnR3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjIzNzYzCWZpbGU6T3BlcmF0aW9uIE5vdmVtYmVyLmFwcC50YXIuZ3oJdmVyc2lvbjoxLjAuMTMKQ0tpK1RDSlZ1Y0h5SFYzNzQ3bitHL1VacnRpS3p3dUJyY042QldDRnlpdzBHeGNPcnd5MGYzTDZoVDlFbGkzOUFVQ0tTaDZveDZld0ZZVFliVmNYQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/TareqMonwer/november-tracker-updates/main/operation-november.app.tar.gz"
+    }
+  }
+}
