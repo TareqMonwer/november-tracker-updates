@@ -1,0 +1,11 @@
+{
+  "version": "1.0.16",
+  "notes": "Latest CI build from windows-11-stable-release.",
+  "pub_date": "2026-10-22T21:31:58.371Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR2hoMEw5SHRhYVcraisxenpFajByaHUxRU9jK0huTkJwaEtnMGF3RnFXT0xIMGNzWEoxMU0wZkErY3VJS2p6Zzh4Y08zUE95ZktBSWZwSXZpaGZpTXpKUXorajBrbVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzA0NzE0CWZpbGU6T3BlcmF0aW9uIE5vdmVtYmVyXzEuMC4xNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjE2CitrTHBZS2tUNHRRdTBKT3ZBb0NMZjdsMTExY3EwTW1HSWIvRW9oZVRIY0VWaVUzaWNGVkpCNllROHpFMHBkU081ZjNIcnNjcHF6c0VBbjA5bFhKM0JnPT0K",
+      "url": "https://raw.githubusercontent.com/TareqMonwer/november-tracker-updates/windows/Operation-November-setup.exe"
+    }
+  }
+}
